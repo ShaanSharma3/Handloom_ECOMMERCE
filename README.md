@@ -15,5 +15,5 @@ Integrated with Stripe for reliable and secure transactions, giving users peace 
 Optimized for desktops, tablets, and mobile devices to ensure a smooth shopping experience everywhere.
 
 🎨 Customizable UI
-Built with React.js, making the interface flexible and easily brandable to suit any business identity.
+Built with React.js, making the interface flexible and easily brandable to suit any business identity
 
